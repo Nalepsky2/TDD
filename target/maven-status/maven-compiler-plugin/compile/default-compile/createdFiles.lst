@@ -1,0 +1,5 @@
+Main.class
+NamesValidationException.class
+EmailProvider.class
+FakeReader.class
+Reader.class
